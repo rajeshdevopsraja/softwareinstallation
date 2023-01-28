@@ -1,6 +1,5 @@
 #!/bin/bash
 cd /opt
-pwd
 sudo unzip apache-maven-3.8.7-bin.zip
 export M2_HOME=/opt/apache-maven-3.8.7/bin
 #mvn -version
